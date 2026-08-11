@@ -1,1 +1,2 @@
 # odin-recipes
+Basicamente vou tentar fazer um site com as habilidades de link e imagens que aprendi nas aulas do T.O.P, sinceramente acho que a parte do terminal vai ser a parte mais "complicada" ja que não tinha contato com outra coisa sem ser o curso do guanabara sobre programação. 
